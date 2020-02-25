@@ -1,9 +1,6 @@
 # GROUP 1 - Final Project
 
 ## Sentiment Analysis on Arts, Crafts and Sewing Dataset from the Amazon Review data - Using Spark
-# GROUP 1 - Final Project
-
-## Sentiment Analysis on Arts, Crafts and Sewing Dataset from the Amazon Review data - Using Spark
 Sentiment analysis studies the subjective information in an expression, that is, the opinions, appraisals, emotions, or attitudes towards a topic, person or entity. Expressions can be classified as positive, negative, or neutral. For example: “I really like the new design of your website!” → Positive.
 Here we are doing a sentimental analysis on Amazon reviews meta deta(Arts, Crafts and Sewing Dataset).
 In order to perform Sentimental Anlysis here we are going to discuss what are the necessary steps required:
